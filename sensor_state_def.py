@@ -1,0 +1,9 @@
+''' Sensor States definition '''
+sensor_states = [ST_SN_CREATE_INITIAL, ST_SN_ONLINE, ST_SN_OFFLINE, ST_SN_MAINTENANCE]
+
+ST_SN_CREATE_INITIAL = '01'
+ST_SN_ONLINE = '02'
+ST_SN_OFFLINE = '03'
+ST_SN_MAINTENANCE = '04'
+
+
