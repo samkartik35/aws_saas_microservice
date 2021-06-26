@@ -1,0 +1,4 @@
+KAFKA_SERVER ='192.168.43.231:9092'
+KAFKA_DATA_TOPIC ='data_queue'
+KAFKA_CONTROL_TOPIC = 'control_queue'
+KAFKA_CONTROL_DATA_TOPIC = 'control_data_topic'
